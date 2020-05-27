@@ -10,7 +10,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    lateinit val diceImage: ImageView
+    lateinit var diceImage: ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
